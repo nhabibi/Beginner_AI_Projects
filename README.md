@@ -1,1 +1,1 @@
-# Beginner_AI_Projects
+A Collection of My Previous AI Projects.
